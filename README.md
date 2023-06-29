@@ -2,4 +2,4 @@
 Kalo temen lu nanya pake tema apa, jawab aja Tema "Ngoding Bro".
 
 ## Preview
-![Alt text](<Ngoding Bro.png>)
+![Preview Tema](./assets/preview.png)
